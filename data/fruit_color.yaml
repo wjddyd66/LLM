@@ -1,0 +1,4 @@
+_type: prompt
+input_variables:
+- fruit
+template: What color is a {fruit}?
